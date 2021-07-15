@@ -1,0 +1,27 @@
+body {
+	background-color: #cbcadd;
+}
+
+.navbar {
+	justify-content: space-between;
+	margin-bottom: 40px;
+	background-color: #f8f9fa;
+}
+
+	h1 {
+		margin-top: 40px;
+		text-align: center;
+	}
+
+	.list {
+		background-color: #d6d8db;
+		margin-top: 40px;
+		margin-left: 90px;
+		width: 90%;
+		border: 2px solid #9ca0c3;
+		font-weight: bold;
+	}
+	
+	td {
+		color: black;
+	}

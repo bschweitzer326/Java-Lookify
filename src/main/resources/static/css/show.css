@@ -1,0 +1,41 @@
+body {
+	background-color: #cbcadd;
+}
+
+.navbar {
+	justify-content: space-between;
+	margin-bottom: 40px;
+	background-color: #f8f9fa;
+}
+
+	.container {
+		background-color: white;
+		padding: 10px;
+		display: block;
+		border: 2px solid #9ca0c3;
+		border-radius: 15px;
+	}
+	
+		label {
+			font-weight: bold;
+			font-size: 30px;
+			margin: 20px;
+		}
+		
+		span {
+			text-align: center;
+			color: blue;
+		}
+		
+		.one {
+			margin-left: 30px;
+		}
+		
+		.two {
+			margin-left: 95px;
+		}
+		
+		.three{
+			margin-left: 80px;
+		}
+		

@@ -1,0 +1,14 @@
+body {
+	background-color: #c1c5e6;
+}
+
+.container {
+	text-align:center;
+	margin-top:80px;
+}
+
+	h1 {
+		font-size: 80px;
+		margin-bottom: 50px;
+	}
+

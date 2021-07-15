@@ -1,0 +1,28 @@
+body {
+	background-color: #cbcadd;
+}
+
+.navbar {
+	justify-content: space-between;
+	margin-bottom: 40px;
+	background-color: #f8f9fa;
+}
+
+.container {
+		margin-top: 90px;
+		background-color: white;
+		padding: 20px;
+		display: block;
+		border: 2px solid #9ca0c3;
+		border-radius: 15px;
+	}
+	
+	label {
+		font-weight: bold;
+		font-size: 25px;
+	}
+	
+	.btn-dark {
+		font-weight: bold;
+		color: lightblue;
+	}

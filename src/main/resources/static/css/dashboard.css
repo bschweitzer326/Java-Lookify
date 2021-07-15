@@ -1,0 +1,25 @@
+body {
+	background-color: #cbcadd;
+}
+
+.navbar {
+	justify-content: space-between;
+	margin-bottom: 40px;
+	background-color: #f8f9fa;
+}
+
+	.list {
+		margin-top: 40px;
+		margin-left: 90px;
+		width: 90%;
+		border: 1px solid #9ca0c3;
+		background-color: white;
+		font-weight: bold;
+	}
+
+		.btn-danger, .btn-primary {
+			color: black;
+			font-weight: bold;
+		}
+		
+		
